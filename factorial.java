@@ -10,6 +10,11 @@ public class factorial
         System.out.println(number + "factorialzed equals" + answer);
     }
     
+    /**
+    *Takes a number and returns its factorial
+    *@param the user chosen number
+    *@return the factorial
+    */
     public static int factorialFinder(int number)
     {
         if (number > 1)

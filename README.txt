@@ -1,0 +1,1 @@
+This program takes a number and retruns its factorial, that is the number times one less than it and so on until it reaches 0.
